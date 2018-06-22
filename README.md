@@ -6,7 +6,7 @@ A basic web scrapping in python and beautiful soup
 * Check wheather the python 3 is installed or not(To check you can type python --version in command prompt)
 * If not install Python version 3.X from here.
 * After Installing Python, Install requests, bs4(Beautiful Soup) and lxml.
-* Commands for installation:
-  ** pip install requests **
-  ** pip install bs4
-  ** pip install lxml
+* Commands for installation: <br>
+  ** pip install requests <br>
+  ** pip install bs4      <br>
+  ** pip install lxml     <br>
